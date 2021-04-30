@@ -1,5 +1,12 @@
 Historias de usuario:
 
-OBJETIVO GENERAL➔Aplicar conceptos relacionados con programación orientadaa objetos y listas en Java.OBJETIVOS ESPECÍFICOS➔Diseñar una solución a un problema mediante el usodel paradigma orientado a objetos.➔Aplicar conceptos de planificación AgileREQUISITOS PREVIOSDadoqueunodelosobjetivoeslaaplicacióndeconceptosdeplanificaciónÁgil,descargueyleaelsiguienteartículo:how_you_slice_it.pdf(jpattonassociates.com).Dichoartículodasugerenciasdecomodividirunproyectodedesarrolloenhistoriasdeusuario,comopriorizarlasycomodeformaiterativa e incremental, implementarlas.DESCRIPCIÓN DEL PROBLEMASimonTecesunjuegodememoriaqueconsisteenuncírculocompuestodecuatrocuadrantes,cadaunoconuncolor:verde,rojo,azulyamarillo(verfigura1).Eljuegodeformaaleatoriavailuminandoloscuadrantesdecolores.Despuésdeesperar,elusuariodebeirintroduciendolasecuenciamostradaenelordencorrecto.Siloconsigue,esteresponderáconunasecuenciamáslarga,yasísucesivamente.Sifalla, perderá el juego y deberá empezar de nuevo.Figura1. Representación del juego Simon
-Lacantidaddecoloresenunasecuenciadependerádelnivelenelqueesté.Elpatróndecoloressedebegeneraraleatoriamenteysedebeiralmacenandoenunaestructuradedatosparaqueconformeavancen los niveles se recuerde la secuencia anteriory solamente se añada 1 color nuevo. Por ejemplo:-Nivel 1: Amarillo-Nivel 2: Amarillo,Verde-Nivel 3: Amarillo, Verde,Rojo-Nivel 4: Amarillo, Verde, Rojo,VerdeLos distintos niveles de dificultad van aumentandola velocidad de la secuencia a repetir.Paralainterfazgráficasencilla,puedeusarJavaFXoSwing.Debeaparecereldiscoyelnivelpor el que va el jugador (verfigura2como ejemplo).Figura2. Ejemplo de representación del juego en laGUI con el nivel como un label en el centro del disco.ASPECTOS OPERATIVOS1.Fecha de entrega:De acuerdo con el cronogramay con lo establecido en el TEC Digital.2.Valor:De acuerdo a los establecido en el programadel curso.3.El trabajo esindividual.4.Debe presentar un enlace a GitHub Pages dondedocumente lo siguiente:●Historias de usuario identificadas del problema propuesto●Clasificación según criticidad y frecuencia de uso●Minimal system span●Plan de iteraciones●Diagrama conceptual (donde se muestre a alto nivella solución planteada)●Diagrama de clases a nivel de implementación (incluyendotipos de datos)RÚBRICA➔Aplicación correcta de los pasos indicados en el artículo50%➔Diagrama conceptual 10%➔Diagrama de clases 40%
+*sasasas
+*sasasas
+*sasasas
+
+*sasasas
+*sasasas
+*sasasas
+*sasasas
+
 
