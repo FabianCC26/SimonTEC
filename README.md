@@ -26,6 +26,6 @@ Minimal system span:
 
 Plan de iteraciones:
 
-![image](https://user-images.githubusercontent.com/80297230/116767974-b17df800-a9f0-11eb-8e5a-d7fb62fedea5.png)
+![image](https://user-images.githubusercontent.com/80297230/116767987-c195d780-a9f0-11eb-9f7a-8df72b5a61ae.png)
 
 
