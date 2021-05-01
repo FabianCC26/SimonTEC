@@ -2,10 +2,11 @@ Historias de usuario:
 
 - Crear un juego de recrear patrones haciendo uso de la memoria.
 - Crear una interfaz grafica para el juego.
-- Hacer uso de números aletorios (del 1 al 4) para poder par determinar el patron de colores del juego.
+- Hacer uso de números aletorios (del 1 al 4) para poder determinar el patron de colores del juego.
 - Designar a cada numero un color especifico.
 - Crear una lista la cual almacene los numeros que ya se han utilizado para así hacer un patron que se repite
-- Verificar si el uduario replica correctamente el patron.
+- Verificar si el usuario replica correctamente el patron.
+- Reinicier el patron al equivocarse.
 
 Punto de vista del usuario
 
@@ -17,6 +18,7 @@ Punto de vista del usuario
 
 Clasificación según criticidad y frecuencia de uso:
 
-![image](https://user-images.githubusercontent.com/80297230/116765180-3bbe6000-a9e1-11eb-9f45-677fad22715c.png)
+![image](https://user-images.githubusercontent.com/80297230/116766039-9bb70580-a9e5-11eb-9ad0-085258b608f4.png)
+
 
 
