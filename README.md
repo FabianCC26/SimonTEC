@@ -22,3 +22,10 @@ Clasificación según criticidad y frecuencia de uso:
 
 Minimal system span:
 
+![image](https://user-images.githubusercontent.com/80297230/116767449-66aeb100-a9ed-11eb-9515-fa1d7c39b8e0.png)
+
+Plan de iteraciones:
+
+![image](https://user-images.githubusercontent.com/80297230/116767974-b17df800-a9f0-11eb-8e5a-d7fb62fedea5.png)
+
+
