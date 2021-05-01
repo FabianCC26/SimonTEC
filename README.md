@@ -17,3 +17,6 @@ Punto de vista del usuario
 
 Clasificación según criticidad y frecuencia de uso:
 
+![image](https://user-images.githubusercontent.com/80297230/116765180-3bbe6000-a9e1-11eb-9f45-677fad22715c.png)
+
+
