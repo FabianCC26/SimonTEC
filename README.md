@@ -20,5 +20,7 @@ Clasificación según criticidad y frecuencia de uso:
 
 ![image](https://user-images.githubusercontent.com/80297230/116766039-9bb70580-a9e5-11eb-9ad0-085258b608f4.png)
 
+Minimal system span:
+
 
 
