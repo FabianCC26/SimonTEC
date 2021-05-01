@@ -1,3 +1,7 @@
+Fabián Castillo Cerdas 
+carnet 2020202938
+
+
 Historias de usuario:
 
 - Crear un juego de recrear patrones haciendo uso de la memoria.
@@ -32,11 +36,10 @@ Digrama conceptual:
 
 ![image](https://user-images.githubusercontent.com/80297230/116769091-eb51fd00-a9f6-11eb-9b45-97b2d7564270.png)
 
-
-
-
-
 Diagrama de clases a nivel de implementación:
+
+![image](https://user-images.githubusercontent.com/80297230/116772817-ad60d300-aa0e-11eb-95d1-941910bd592a.png)
+
 
 
 
