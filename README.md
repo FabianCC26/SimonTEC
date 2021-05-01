@@ -28,4 +28,15 @@ Plan de iteraciones:
 
 ![image](https://user-images.githubusercontent.com/80297230/116767987-c195d780-a9f0-11eb-9f7a-8df72b5a61ae.png)
 
+Digrama conceptual:
+
+![image](https://user-images.githubusercontent.com/80297230/116769091-eb51fd00-a9f6-11eb-9b45-97b2d7564270.png)
+
+
+
+
+
+Diagrama de clases a nivel de implementación:
+
+
 
