@@ -18,9 +18,7 @@ Punto de vista del usuario
 
 Clasificación según criticidad y frecuencia de uso:
 
-![image](https://user-images.githubusercontent.com/80297230/116766039-9bb70580-a9e5-11eb-9ad0-085258b608f4.png)
+![image](https://user-images.githubusercontent.com/80297230/116767170-96f55000-a9eb-11eb-9fd7-3c13dffec060.png)
 
 Minimal system span:
-
-
 
